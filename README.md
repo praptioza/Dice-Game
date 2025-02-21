@@ -1,8 +1,8 @@
-# 🎲 Dice Game - A Fun Two-Player Challenge! 🎲  
+# 🎲 Dice Game - A Fun Two-Player Challenge! 
 
-## 🚀 Overview  
+## Overview  
 
-Welcome to the **Dice Game**, a **two-player** iOS mobile game app where strategy, luck, and decision-making leads to victory! 🎯  
+Welcome to the **Dice Game**, a **two-player** iOS mobile game app where strategy, luck, and decision-making leads to victory!  
 Set your goal, choose your lucky number, and roll the dice to see who reaches the target first. Will you be the champion, or will luck favor your opponent? Let’s find out!  
 
 ## 🕹️ Game Rules  
@@ -35,28 +35,28 @@ The goal is to **reach the target score (up to 120) within 10 rounds** while tak
 
 ## 🛠️ Built With  
 
-- **Swift** 🦅  
-- **Storyboard** 📜  
-- **UIKit** 📱  
-- **Xcode** 💻  
+- **Swift** 
+- **Storyboard** 
+- **UIKit**  
+- **Xcode**  
 
 ---
 
-## 🎨 Features  
+## Features  
 
-✅ **Dynamic Two-Player Gameplay** 🤼  
-✅ **Real-time Score Tracking** 📊  
-✅ **Interactive UI with Animated Dice Rolls** 🎲✨  
-✅ **Unique Bonus Mechanisms** 🌟  
-✅ **Round-Based Game Flow with Alerts** 🔔  
-✅ **Responsive Layout for Different Screen Sizes** 📱📏  
+ **Dynamic Two-Player Gameplay**   
+ **Real-time Score Tracking**   
+ **Interactive UI with Animated Dice Rolls**  
+ **Unique Bonus Mechanisms** 
+ **Round-Based Game Flow with Alerts**  
+ **Responsive Layout for Different Screen Sizes** 
 
 ---
 
 
-## 🚀 How to Run  
+## How to Run  
 
-1️⃣ **Clone the Repository** 🛠️  
+1️⃣ **Clone the Repository**  
 
 git clone https://github.com/praptioza/Dice-Game.git
 cd Dice-Game
